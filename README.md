@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cristian Pérez</h1>
+<h1 align="center">Hi 👋, I'm Cristian Pérez Perera</h1>
 <h3 align="center">A Python programmer a industrial cibersecurity technician</h3>
 
-- 🔭 I’m currently working on **Spanih Army**
+- 🔭 I’m currently working on **Spanihs Army**
 
 - 🌱 I’m currently learning **Python, ML, DA, cibersecurity**
 
