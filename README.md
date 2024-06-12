@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **christian.prez@gmail.com**
 
-- 📄 Know about my experiences [https://cristian-perez.com/sample-page/](https://cristian-perez.com/sample-page/)
+- 📄 Know about my experiences [https://cristian-perez.com/about-me//](https://cristian-perez.com/about-me//)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
