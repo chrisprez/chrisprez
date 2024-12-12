@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Pérez Perera</h1>
-<h3 align="center">An Analyst consultant and cibersecurity technician</h3>
+<h3 align="center">An Analyst consultant and cibersecurity technician perfecting in OT technologies</h3>
 
 - 🔭 I’m currently working on [S21sec by Thales](https://www.s21sec.com/es/)
 
