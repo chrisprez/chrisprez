@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cristian Pérez Perera</h1>
 <h3 align="center">An Analyst consultant and cibersecurity technician</h3>
 
-- 🔭 I’m currently working on **S21sec by Thales**
+- 🔭 I’m currently working on [S21sec by Thales](https://www.s21sec.com/es/)
 
 - 🌱 I’m currently learning **Chronicle SIEM, tools for ICS security**
 
-- 📝 I regularly write articles on [https://cristian-perez.com/](https://cristian-perez.com/)
+- 📝 I regularly write articles on [cristian-perez.com/](https://cristian-perez.com/)
 
-- 📫 How to reach me **christian.prez@gmail.com**
+- 📫 How to reach me [christian.prez@gmail.com](mailito:christian.prez@gmail.com)
 
-- 📄 Know about my experiences [https://cristian-perez.com/about-me//](https://cristian-perez.com/about-me//)
+- 📄 Know about my experiences [cristian-perez.com/about-me//](https://cristian-perez.com/about-me//)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
