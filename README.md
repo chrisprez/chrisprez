@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Pérez Perera</h1>
-<h3 align="center">A Python programmer a industrial cibersecurity technician</h3>
+<h3 align="center">An Analyst consultant and cibersecurity technician</h3>
 
-- 🔭 I’m currently working on **Spanihs Army**
+- 🔭 I’m currently working on **S21sec by Thales**
 
-- 🌱 I’m currently learning **Python, ML, DA, cibersecurity**
+- 🌱 I’m currently learning **Chronicle SIEM, tools for ICS security**
 
 - 📝 I regularly write articles on [https://cristian-perez.com/](https://cristian-perez.com/)
 
